@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "party-rank-sorter",
-    title: "Party Rank Sorter",
-    description: "Party rank sorter for your custom list of songs."
+    localStoragePrefix: "natsume-pr",
+    title: "Natsume Yuujinchou Party Rank Sorter",
+    description: "Party rank sorter for all Natsume Yuujinchou songs."
 };
